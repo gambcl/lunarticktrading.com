@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "568a8e2383954d2e1be613b31e6a9e84"
+        "md5": "bba78ad5bef6d1b8f2ba7ddf8543ac7e"
     },
     {
         "path": "adx-dots.html",
         "type": "file",
-        "md5": "330617de1e53a0b06b7fa643a716b03c"
+        "md5": "077a929087e926d641a13a3bb6a33f21"
     },
     {
         "path": "assets",
@@ -87,42 +87,42 @@
     {
         "path": "/authors/lunartick-trading/index.html",
         "type": "file",
-        "md5": "d41b8bc74313e9368432e8d418add50d"
+        "md5": "4dfc3775354e14d66743145be0bf89ae"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "edebdffead20948623758ec563368933"
+        "md5": "ab2132cb1f49ab304907a74854700e34"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7149a6f341b23c4ed62fdccdc8b16e5d"
+        "md5": "da21b7de788b6b9f34c5ee3820680b78"
     },
     {
         "path": "heiken-ashi-dots.html",
         "type": "file",
-        "md5": "2bd8dbb0b68886a3e2465fd5fa6680ff"
+        "md5": "b51e57332fe42784cd462c05ee898e61"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "b22c2d4e03d4cf13574c3795ac6efbc9"
+        "md5": "63a4fe88ff7d100572a25c2acc6d3959"
     },
     {
         "path": "laguerre-rsi.html",
         "type": "file",
-        "md5": "48e0a4704f2c3ac8c644f0157d9d101f"
+        "md5": "b3d796aa31303958dc249705cb91da57"
     },
     {
         "path": "ma-cloud-dots.html",
         "type": "file",
-        "md5": "d0f0c193584c57c5276cd1372b176e65"
+        "md5": "6b91db36a8b0f8fd9dd42cdac0cae6eb"
     },
     {
         "path": "ma-cloud.html",
         "type": "file",
-        "md5": "92770512c9831332fcdbe90daba57637"
+        "md5": "4f25451c632e0fceef0f95b885f41753"
     },
     {
         "path": "media",
@@ -497,22 +497,22 @@
     {
         "path": "real-openclose.html",
         "type": "file",
-        "md5": "7e9554fae5eb6db42297be43d7e05d25"
+        "md5": "aa7d66fdc1e6b8b4834f6adcad0fff27"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "90c584b7779a5fe93d8d0fbe91d65f1e"
+        "md5": "1f279bf8e385f50fb9a7d869f7fe5413"
     },
     {
         "path": "signals-ma.html",
         "type": "file",
-        "md5": "af2e3769eee77d2495d4cb852216e194"
+        "md5": "72ad71c37ce16e4e201de5b178e08982"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "da3020165552fa88a1f3bb584f128622"
+        "md5": "b76bc6751de5a788583e4ce24ef5cfb0"
     },
     {
         "path": "sitemap.xsl",
@@ -527,7 +527,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "c49949628e21d2c46e7412b665213fc5"
+        "md5": "a5ed8ebfbb157bfbd502719b0d9599bd"
     },
     {
         "path": "tags/ninjatrader",
@@ -537,16 +537,16 @@
     {
         "path": "/tags/ninjatrader/index.html",
         "type": "file",
-        "md5": "11a45d81bb4dc6928565eb096aa32f4d"
+        "md5": "ff97caf69f7789755af0b35f43b94838"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "80210c0792a3cf0ad258eebcfe40be40"
+        "md5": "55f110193890cd3481e51cce9f6ded4e"
     },
     {
         "path": "welcome-to-lunartick-trading.html",
         "type": "file",
-        "md5": "5efc13c61f214d2cc0d2506e797706a6"
+        "md5": "17063bb056fb3e9cb5f1e57595ff3bed"
     }
 ]
