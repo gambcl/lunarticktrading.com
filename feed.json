@@ -1,0 +1,141 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LunarTick Trading",
+    "description": "",
+    "home_page_url": "https://lunarticktrader.com",
+    "feed_url": "https://lunarticktrader.com/feed.json",
+    "user_comment": "",
+    "icon": "https://lunarticktrader.com/media/website/lunartick-trading.svg",
+    "author": {
+        "name": "LunarTick Trading"
+    },
+    "items": [
+        {
+            "id": "https://lunarticktrader.com/welcome-to-lunartick-trading.html",
+            "url": "https://lunarticktrader.com/welcome-to-lunartick-trading.html",
+            "title": "Welcome to LunarTick Trading",
+            "summary": "LunarTick Trading is where I publish any indicators that I have developed for various trading platforms including NinjaTrader, MotiveWave and TradingView. The source code for all free indicators listed on this site can be found on GitHub.",
+            "content_html": "<p>LunarTick Trading is where I publish any indicators that I have developed for various trading platforms including <a href=\"https://lunarticktrader.com/tags/ninjatrader/\">NinjaTrader</a>, MotiveWave and TradingView.</p>\n<p>The source code for all free indicators listed on this site can be found on <a href=\"https://github.com/gambcl\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/9/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-10T10:58:14+01:00",
+            "date_modified": "2025-09-11T22:37:33+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/signals-ma.html",
+            "url": "https://lunarticktrader.com/signals-ma.html",
+            "title": "Signals MA",
+            "summary": "Shows buy/sell signals when price crosses a Moving Average. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows buy/sell signals when price crosses a Moving Average.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/7/signals_ma.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:08:43+01:00",
+            "date_modified": "2025-09-10T11:45:47+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/real-openclose.html",
+            "url": "https://lunarticktrader.com/real-openclose.html",
+            "title": "Real Open/Close",
+            "summary": "Shows the real Open/Close price levels on each candle, especially useful for Heiken Ashi candles. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows the real Open/Close price levels on each candle, especially useful for Heiken Ashi candles.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/6/real_open_close.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:08:13+01:00",
+            "date_modified": "2025-09-10T11:46:08+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/ma-cloud-dots.html",
+            "url": "https://lunarticktrader.com/ma-cloud-dots.html",
+            "title": "MA Cloud Dots",
+            "summary": "Shows a row of colored dots indicating the color of the MA Cloud indicator. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows a row of colored dots indicating the color of the MA Cloud indicator.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\"> GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/5/ma_cloud_dots.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:07:40+01:00",
+            "date_modified": "2025-09-10T11:46:38+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/ma-cloud.html",
+            "url": "https://lunarticktrader.com/ma-cloud.html",
+            "title": "MA Cloud",
+            "summary": "Shows a cloud formed by highlighting the region between two moving averages. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows a cloud formed by highlighting the region between two moving averages.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\">GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/4/ma_cloud.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:02:51+01:00",
+            "date_modified": "2025-09-10T11:46:55+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/laguerre-rsi.html",
+            "url": "https://lunarticktrader.com/laguerre-rsi.html",
+            "title": "Laguerre RSI",
+            "summary": "The Laguerre RSI oscillator, supporting both the regular Laguerre RSI calculation and a variation with fractal energy. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>The Laguerre RSI oscillator, supporting both the regular Laguerre RSI calculation and a variation with fractal energy.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\"> GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/3/lrsi.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:02:15+01:00",
+            "date_modified": "2025-09-10T11:47:34+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/heiken-ashi-dots.html",
+            "url": "https://lunarticktrader.com/heiken-ashi-dots.html",
+            "title": "Heiken Ashi Dots",
+            "summary": "Shows a row of colored dots indicating the color of Heiken Ashi candles, with an intermediate color indicating a change in the Heiken Ashi color. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows a row of colored dots indicating the color of Heiken Ashi candles, with an intermediate color indicating a change in the Heiken Ashi color.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\"> GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/2/ha_dots.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-10T00:00:08+01:00",
+            "date_modified": "2025-09-10T11:47:38+01:00"
+        },
+        {
+            "id": "https://lunarticktrader.com/adx-dots.html",
+            "url": "https://lunarticktrader.com/adx-dots.html",
+            "title": "ADX Dots",
+            "summary": "Shows a row of colored dots indicating trend strength according to the ADX indicator. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.",
+            "content_html": "<p>Shows a row of colored dots indicating trend strength according to the ADX indicator.</p>\n<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href=\"https://github.com/gambcl/NinjaTrader8\" target=\"_blank\"  class=\"extlink extlink-icon-1\"  rel=\"noopener noreferrer\"> GitHub</a>.</p>",
+            "image": "https://lunarticktrader.com/media/posts/1/adx_dots.png",
+            "author": {
+                "name": "LunarTick Trading"
+            },
+            "tags": [
+                   "ninjatrader"
+            ],
+            "date_published": "2025-09-09T23:58:22+01:00",
+            "date_modified": "2025-09-10T11:47:52+01:00"
+        }
+    ]
+}

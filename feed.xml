@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>LunarTick Trading</title>
+    <link href="https://lunarticktrader.com/feed.xml" rel="self" />
+    <link href="https://lunarticktrader.com" />
+    <updated>2025-09-11T22:37:33+01:00</updated>
+    <author>
+        <name>LunarTick Trading</name>
+    </author>
+    <id>https://lunarticktrader.com</id>
+
+    <entry>
+        <title>Welcome to LunarTick Trading</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/welcome-to-lunartick-trading.html"/>
+        <id>https://lunarticktrader.com/welcome-to-lunartick-trading.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/9/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" medium="image" />
+
+        <updated>2025-09-10T10:58:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/9/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" alt="" />
+                    LunarTick Trading is where I publish any indicators that I have developed for various trading platforms including NinjaTrader, MotiveWave and TradingView. The source code for all free indicators listed on this site can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/9/maxim-hopman-fiXLQXAhCfk-unsplash.jpg" class="type:primaryImage" alt="" /></p>
+                <p>LunarTick Trading is where I publish any indicators that I have developed for various trading platforms including <a href="https://lunarticktrader.com/tags/ninjatrader/">NinjaTrader</a>, MotiveWave and TradingView.</p>
+<p>The source code for all free indicators listed on this site can be found on <a href="https://github.com/gambcl" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Signals MA</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/signals-ma.html"/>
+        <id>https://lunarticktrader.com/signals-ma.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/7/signals_ma.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:08:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/7/signals_ma.png" alt="" />
+                    Shows buy/sell signals when price crosses a Moving Average. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/7/signals_ma.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows buy/sell signals when price crosses a Moving Average.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Real Open/Close</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/real-openclose.html"/>
+        <id>https://lunarticktrader.com/real-openclose.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/6/real_open_close.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:08:13+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/6/real_open_close.png" alt="" />
+                    Shows the real Open/Close price levels on each candle, especially useful for Heiken Ashi candles. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/6/real_open_close.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows the real Open/Close price levels on each candle, especially useful for Heiken Ashi candles.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MA Cloud Dots</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/ma-cloud-dots.html"/>
+        <id>https://lunarticktrader.com/ma-cloud-dots.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/5/ma_cloud_dots.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:07:40+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/5/ma_cloud_dots.png" alt="" />
+                    Shows a row of colored dots indicating the color of the MA Cloud indicator. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/5/ma_cloud_dots.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows a row of colored dots indicating the color of the MA Cloud indicator.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer"> GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>MA Cloud</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/ma-cloud.html"/>
+        <id>https://lunarticktrader.com/ma-cloud.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/4/ma_cloud.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:02:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/4/ma_cloud.png" alt="" />
+                    Shows a cloud formed by highlighting the region between two moving averages. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/4/ma_cloud.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows a cloud formed by highlighting the region between two moving averages.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on <a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer">GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Laguerre RSI</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/laguerre-rsi.html"/>
+        <id>https://lunarticktrader.com/laguerre-rsi.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/3/lrsi.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:02:15+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/3/lrsi.png" alt="" />
+                    The Laguerre RSI oscillator, supporting both the regular Laguerre RSI calculation and a variation with fractal energy. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/3/lrsi.png" class="type:primaryImage" alt="" /></p>
+                <p>The Laguerre RSI oscillator, supporting both the regular Laguerre RSI calculation and a variation with fractal energy.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer"> GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Heiken Ashi Dots</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/heiken-ashi-dots.html"/>
+        <id>https://lunarticktrader.com/heiken-ashi-dots.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/2/ha_dots.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-10T00:00:08+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/2/ha_dots.png" alt="" />
+                    Shows a row of colored dots indicating the color of Heiken Ashi candles, with an intermediate color indicating a change in the Heiken Ashi color. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/2/ha_dots.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows a row of colored dots indicating the color of Heiken Ashi candles, with an intermediate color indicating a change in the Heiken Ashi color.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer"> GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ADX Dots</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrader.com/adx-dots.html"/>
+        <id>https://lunarticktrader.com/adx-dots.html</id>
+        <media:content url="https://lunarticktrader.com/media/posts/1/adx_dots.png" medium="image" />
+            <category term="ninjatrader"/>
+
+        <updated>2025-09-09T23:58:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lunarticktrader.com/media/posts/1/adx_dots.png" alt="" />
+                    Shows a row of colored dots indicating trend strength according to the ADX indicator. The source code for all NinjaTrader indicators listed on this page can be found on GitHub.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lunarticktrader.com/media/posts/1/adx_dots.png" class="type:primaryImage" alt="" /></p>
+                <p>Shows a row of colored dots indicating trend strength according to the ADX indicator.</p>
+<p>The source code for all NinjaTrader indicators listed on this page can be found on<a href="https://github.com/gambcl/NinjaTrader8" target="_blank"  class="extlink extlink-icon-1"  rel="noopener noreferrer"> GitHub</a>.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

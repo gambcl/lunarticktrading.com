@@ -1,0 +1,552 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "568a8e2383954d2e1be613b31e6a9e84"
+    },
+    {
+        "path": "adx-dots.html",
+        "type": "file",
+        "md5": "330617de1e53a0b06b7fa643a716b03c"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "02826e60c8e393ddf3e98ce0b47abac6"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "0d2e678e593568ffea8e62f47d3b2986"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "bd19e1795647692f2fe6f2249792391f"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "8680a80b5605dca08d4eef4416e29e9f"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "aa1ff23a8df2377a60f48f5b4d433ab5"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "c8df4110c4ebd38fbb95093ee7b4e317"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/lunartick-trading",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/lunartick-trading/index.html",
+        "type": "file",
+        "md5": "d41b8bc74313e9368432e8d418add50d"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "edebdffead20948623758ec563368933"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "7149a6f341b23c4ed62fdccdc8b16e5d"
+    },
+    {
+        "path": "heiken-ashi-dots.html",
+        "type": "file",
+        "md5": "2bd8dbb0b68886a3e2465fd5fa6680ff"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "b22c2d4e03d4cf13574c3795ac6efbc9"
+    },
+    {
+        "path": "laguerre-rsi.html",
+        "type": "file",
+        "md5": "48e0a4704f2c3ac8c644f0157d9d101f"
+    },
+    {
+        "path": "ma-cloud-dots.html",
+        "type": "file",
+        "md5": "d0f0c193584c57c5276cd1372b176e65"
+    },
+    {
+        "path": "ma-cloud.html",
+        "type": "file",
+        "md5": "92770512c9831332fcdbe90daba57637"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/Kinetick_Logo.png",
+        "type": "file",
+        "md5": "6caa4a0cf3f596a0e7ff6a5cc9141108"
+    },
+    {
+        "path": "/media/files/NinjaTrader_NTE_OW_RGB-600x100.png",
+        "type": "file",
+        "md5": "09521716f6bc9740655336f76a51ff13"
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/followButtons",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/followButtons/svg-map.svg",
+        "type": "file",
+        "md5": "00f1c7d574d1926b15aa41c9a15bd5c1"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/adx_dots.png",
+        "type": "file",
+        "md5": "c38bab35d1264309df998d2f168961c2"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/adx_dots-md.png",
+        "type": "file",
+        "md5": "291baeec19ddf49abe3c911a2993a622"
+    },
+    {
+        "path": "/media/posts/1/responsive/adx_dots-sm.png",
+        "type": "file",
+        "md5": "291baeec19ddf49abe3c911a2993a622"
+    },
+    {
+        "path": "/media/posts/1/responsive/adx_dots-xl.png",
+        "type": "file",
+        "md5": "291baeec19ddf49abe3c911a2993a622"
+    },
+    {
+        "path": "/media/posts/1/responsive/adx_dots-xs.png",
+        "type": "file",
+        "md5": "e25fe433fe535750f3f2a49df8e059f2"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/ha_dots.png",
+        "type": "file",
+        "md5": "0a7ba09ff1e164dcfd8755ce32641d9e"
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/responsive/ha_dots-md.png",
+        "type": "file",
+        "md5": "93f45c36b118d6c1b416fc488bf4a1e5"
+    },
+    {
+        "path": "/media/posts/2/responsive/ha_dots-sm.png",
+        "type": "file",
+        "md5": "93f45c36b118d6c1b416fc488bf4a1e5"
+    },
+    {
+        "path": "/media/posts/2/responsive/ha_dots-xl.png",
+        "type": "file",
+        "md5": "93f45c36b118d6c1b416fc488bf4a1e5"
+    },
+    {
+        "path": "/media/posts/2/responsive/ha_dots-xs.png",
+        "type": "file",
+        "md5": "c9c06b4f93b69ec7eb7ba4d576696a17"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/lrsi.png",
+        "type": "file",
+        "md5": "4350962503342b5244c0dd201019e9ce"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/lrsi-md.png",
+        "type": "file",
+        "md5": "7e3db789b901f132f680bc3dfb31e4f0"
+    },
+    {
+        "path": "/media/posts/3/responsive/lrsi-sm.png",
+        "type": "file",
+        "md5": "311897f1df9ed9a5151742c56abe83c9"
+    },
+    {
+        "path": "/media/posts/3/responsive/lrsi-xl.png",
+        "type": "file",
+        "md5": "695b40032cd100735af0ddcdb6bf1545"
+    },
+    {
+        "path": "/media/posts/3/responsive/lrsi-xs.png",
+        "type": "file",
+        "md5": "6d23d6ffded51cda980fc68553ab5bbe"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/ma_cloud.png",
+        "type": "file",
+        "md5": "64dc6dcf1566195058bc7f4ed2531e69"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/ma_cloud-md.png",
+        "type": "file",
+        "md5": "5f9970f5ccb5b9b19ae932edfd7808c2"
+    },
+    {
+        "path": "/media/posts/4/responsive/ma_cloud-sm.png",
+        "type": "file",
+        "md5": "b0e80d46cf4294a79c2af73e8d83b838"
+    },
+    {
+        "path": "/media/posts/4/responsive/ma_cloud-xl.png",
+        "type": "file",
+        "md5": "5f9970f5ccb5b9b19ae932edfd7808c2"
+    },
+    {
+        "path": "/media/posts/4/responsive/ma_cloud-xs.png",
+        "type": "file",
+        "md5": "7c85b80a29c3d5c8875e757eba123b02"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/ma_cloud_dots.png",
+        "type": "file",
+        "md5": "ac03548c961f4e2fae6dc3fbbcd4a5b1"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/ma_cloud_dots-md.png",
+        "type": "file",
+        "md5": "89486c90f308a4dec052ffa606b31357"
+    },
+    {
+        "path": "/media/posts/5/responsive/ma_cloud_dots-sm.png",
+        "type": "file",
+        "md5": "89486c90f308a4dec052ffa606b31357"
+    },
+    {
+        "path": "/media/posts/5/responsive/ma_cloud_dots-xl.png",
+        "type": "file",
+        "md5": "89486c90f308a4dec052ffa606b31357"
+    },
+    {
+        "path": "/media/posts/5/responsive/ma_cloud_dots-xs.png",
+        "type": "file",
+        "md5": "6d9a8084092d5c850367433077219ee1"
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/real_open_close.png",
+        "type": "file",
+        "md5": "54e64272a6ad404b657278873787dbd2"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/responsive/real_open_close-md.png",
+        "type": "file",
+        "md5": "199789c2d31b408fe7a37c6ed87cc2b0"
+    },
+    {
+        "path": "/media/posts/6/responsive/real_open_close-sm.png",
+        "type": "file",
+        "md5": "7b7fbd9c011fd37ab3905b1d4494c28e"
+    },
+    {
+        "path": "/media/posts/6/responsive/real_open_close-xl.png",
+        "type": "file",
+        "md5": "199789c2d31b408fe7a37c6ed87cc2b0"
+    },
+    {
+        "path": "/media/posts/6/responsive/real_open_close-xs.png",
+        "type": "file",
+        "md5": "3c980174ddea2b1b2283e5a395b5f8ef"
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/signals_ma-md.png",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/7/responsive/signals_ma-sm.png",
+        "type": "file",
+        "md5": "147c8b2069718e0ccc252fc22e757c9c"
+    },
+    {
+        "path": "/media/posts/7/responsive/signals_ma-xl.png",
+        "type": "file",
+        "md5": "b9a45f07b2a10f58fcaf435f87203503"
+    },
+    {
+        "path": "/media/posts/7/responsive/signals_ma-xs.png",
+        "type": "file",
+        "md5": "631547e82d9195b5d47e786e4e591713"
+    },
+    {
+        "path": "/media/posts/7/signals_ma.png",
+        "type": "file",
+        "md5": "304a7ac16b6834ad26cd86af5933bc1f"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/Kinetick_Logo.png",
+        "type": "file",
+        "md5": "6caa4a0cf3f596a0e7ff6a5cc9141108"
+    },
+    {
+        "path": "/media/posts/8/NinjaTrader_NTE_OB_RGB.svg",
+        "type": "file",
+        "md5": "b3f0c6e486dfa8957276f0941a16c7b4"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/Kinetick_Logo-md.png",
+        "type": "file",
+        "md5": "7b8de03bd80aca408b6bc1ec9d2fde92"
+    },
+    {
+        "path": "/media/posts/8/responsive/Kinetick_Logo-sm.png",
+        "type": "file",
+        "md5": "7b8de03bd80aca408b6bc1ec9d2fde92"
+    },
+    {
+        "path": "/media/posts/8/responsive/Kinetick_Logo-xl.png",
+        "type": "file",
+        "md5": "7b8de03bd80aca408b6bc1ec9d2fde92"
+    },
+    {
+        "path": "/media/posts/8/responsive/Kinetick_Logo-xs.png",
+        "type": "file",
+        "md5": "84aff976c0aea78d8433b216af645925"
+    },
+    {
+        "path": "media/posts/9",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/maxim-hopman-fiXLQXAhCfk-unsplash.jpg",
+        "type": "file",
+        "md5": "c179bc3358c03fa8cb865de8385f3fb6"
+    },
+    {
+        "path": "media/posts/9/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/9/responsive/maxim-hopman-fiXLQXAhCfk-unsplash-md.jpg",
+        "type": "file",
+        "md5": "2aa192cf4f35f528766f9f9b200d55b3"
+    },
+    {
+        "path": "/media/posts/9/responsive/maxim-hopman-fiXLQXAhCfk-unsplash-sm.jpg",
+        "type": "file",
+        "md5": "4c5632f6640bf8881254eedc878bea54"
+    },
+    {
+        "path": "/media/posts/9/responsive/maxim-hopman-fiXLQXAhCfk-unsplash-xl.jpg",
+        "type": "file",
+        "md5": "e64e9a5a3209c6b38d99ec8d4c845150"
+    },
+    {
+        "path": "/media/posts/9/responsive/maxim-hopman-fiXLQXAhCfk-unsplash-xs.jpg",
+        "type": "file",
+        "md5": "6a8d3f16eb2f77500db8834b24f8ffc3"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/lunartick-trading.svg",
+        "type": "file",
+        "md5": "19c75ad176c3dbd226359679a335e901"
+    },
+    {
+        "path": "real-openclose.html",
+        "type": "file",
+        "md5": "7e9554fae5eb6db42297be43d7e05d25"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "90c584b7779a5fe93d8d0fbe91d65f1e"
+    },
+    {
+        "path": "signals-ma.html",
+        "type": "file",
+        "md5": "af2e3769eee77d2495d4cb852216e194"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "da3020165552fa88a1f3bb584f128622"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c49949628e21d2c46e7412b665213fc5"
+    },
+    {
+        "path": "tags/ninjatrader",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/ninjatrader/index.html",
+        "type": "file",
+        "md5": "11a45d81bb4dc6928565eb096aa32f4d"
+    },
+    {
+        "path": "test.html",
+        "type": "file",
+        "md5": "80210c0792a3cf0ad258eebcfe40be40"
+    },
+    {
+        "path": "welcome-to-lunartick-trading.html",
+        "type": "file",
+        "md5": "5efc13c61f214d2cc0d2506e797706a6"
+    }
+]
