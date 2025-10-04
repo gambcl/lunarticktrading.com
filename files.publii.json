@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "72298e011bfffb45896470af769a64c5"
+        "md5": "40879e9710e9b52fc56c7a7346aab7eb"
     },
     {
         "path": "adx-dots.html",
         "type": "file",
-        "md5": "11403a3827940b90ba22560d3c8bb173"
+        "md5": "e903af6d3d669d543c104967727c68cd"
     },
     {
         "path": "assets",
@@ -87,7 +87,7 @@
     {
         "path": "/authors/lunartick-trading/index.html",
         "type": "file",
-        "md5": "3cc32d71cb221546ff32138e8a8dc730"
+        "md5": "2b91e57df3945f3b557469346c42b9b4"
     },
     {
         "path": "feed.json",
@@ -102,27 +102,27 @@
     {
         "path": "heiken-ashi-dots.html",
         "type": "file",
-        "md5": "54cd80e629679d387fbd670b77f5151a"
+        "md5": "224a77efde774a8ee66b1266dd17c6f6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a04c0d6385c244ffceddae11a33524f9"
+        "md5": "4a894f46d93d05ec729947af6d8c08e3"
     },
     {
         "path": "laguerre-rsi.html",
         "type": "file",
-        "md5": "4059f6b1d4a43da2a15af6cdf7936c7e"
+        "md5": "76d4f19870d6a6b4edc70ab69628c2db"
     },
     {
         "path": "ma-cloud-dots.html",
         "type": "file",
-        "md5": "e562f6af5b6d9c5b884c93528fe9a011"
+        "md5": "4c5540e6ff337a6921613eb1292b6540"
     },
     {
         "path": "ma-cloud.html",
         "type": "file",
-        "md5": "72b670848b665b0a90347022c001cbe8"
+        "md5": "2c825ba677bc850f5da5fc9cf45e3886"
     },
     {
         "path": "media",
@@ -497,7 +497,7 @@
     {
         "path": "real-openclose.html",
         "type": "file",
-        "md5": "f721709e26f91468f39c0aff157c9261"
+        "md5": "5483da3686e45390c76b6e60a5852813"
     },
     {
         "path": "robots.txt",
@@ -507,7 +507,7 @@
     {
         "path": "signals-ma.html",
         "type": "file",
-        "md5": "adf5d905a55bf4075a1cfee01ab657a0"
+        "md5": "761bf760c5bd404133a0ba41aeae68b0"
     },
     {
         "path": "sitemap.xml",
@@ -527,7 +527,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "03d764728cf1dfd3b8000a283dbf0fcb"
+        "md5": "43bd6026491a8bcea89b596089141636"
     },
     {
         "path": "tags/ninjatrader",
@@ -537,16 +537,16 @@
     {
         "path": "/tags/ninjatrader/index.html",
         "type": "file",
-        "md5": "be2632315ab8eb123efe3ba5179a9fe4"
+        "md5": "cf3605766ef3ed8a75ca3d84b7814674"
     },
     {
         "path": "test.html",
         "type": "file",
-        "md5": "c11d50bd88a43ab949bfbf192978faa6"
+        "md5": "d2003682a541303ba19da9143621a6b8"
     },
     {
         "path": "welcome-to-lunartick-trading.html",
         "type": "file",
-        "md5": "6570690d6818282cb8efea8b40ebe5ef"
+        "md5": "2bf23c0cdf9aa87e655d609dbdf8d263"
     }
 ]
