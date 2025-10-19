@@ -3,12 +3,54 @@
     <title>LunarTick Trading</title>
     <link href="https://lunarticktrading.com/feed.xml" rel="self" />
     <link href="https://lunarticktrading.com" />
-    <updated>2025-09-14T23:50:21+01:00</updated>
+    <updated>2025-10-19T23:15:25+01:00</updated>
     <author>
         <name>LunarTick Trading</name>
     </author>
     <id>https://lunarticktrading.com</id>
 
+    <entry>
+        <title>MotiveWave</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrading.com/motivewave.html"/>
+        <id>https://lunarticktrading.com/motivewave.html</id>
+            <category term="motivewave"/>
+
+        <updated>2025-10-19T23:15:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coming soon...</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>TradingView</title>
+        <author>
+            <name>LunarTick Trading</name>
+        </author>
+        <link href="https://lunarticktrading.com/tradingview.html"/>
+        <id>https://lunarticktrading.com/tradingview.html</id>
+            <category term="tradingview"/>
+
+        <updated>2025-10-19T23:14:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Coming soon...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Coming soon...</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome to LunarTick Trading</title>
         <author>
@@ -34,7 +76,7 @@
         </content>
     </entry>
     <entry>
-        <title>Signals MA</title>
+        <title>Signals MA for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -59,7 +101,7 @@
         </content>
     </entry>
     <entry>
-        <title>Real Open/Close</title>
+        <title>Real Open/Close for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -84,7 +126,7 @@
         </content>
     </entry>
     <entry>
-        <title>MA Cloud Dots</title>
+        <title>MA Cloud Dots for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -109,7 +151,7 @@
         </content>
     </entry>
     <entry>
-        <title>MA Cloud</title>
+        <title>MA Cloud for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -134,7 +176,7 @@
         </content>
     </entry>
     <entry>
-        <title>Laguerre RSI</title>
+        <title>Laguerre RSI for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -159,7 +201,7 @@
         </content>
     </entry>
     <entry>
-        <title>Heiken Ashi Dots</title>
+        <title>Heiken Ashi Dots for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
@@ -184,7 +226,7 @@
         </content>
     </entry>
     <entry>
-        <title>ADX Dots</title>
+        <title>ADX Dots for NinjaTrader</title>
         <author>
             <name>LunarTick Trading</name>
         </author>
